@@ -1,0 +1,1 @@
+Create a todo application in react with the functionality to add, delete and update items
